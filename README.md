@@ -13,4 +13,4 @@
 
 ## SQL vs NoSQL Database
 
-[SQL vs NoSQL Database] (./Data%20Modeling/nosql%20vs%20sql.md)
+[SQL vs NoSQL Database](./Data%20Modeling/nosql%20vs%20sql.md)
