@@ -13,4 +13,11 @@
 
 ## SQL vs NoSQL Database
 
+[Express REST API]
+
+
+## sequelize-normalization 
+
+[sequelize-normalization API](./https://github.com/AhmadAmaireh/reading-notes/tree/main/Day04)
+=======
 [SQL vs NoSQL Database](./Day03/Data%20Modeling/nosql%20vs%20sql.md)
