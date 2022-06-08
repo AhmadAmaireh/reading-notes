@@ -1,0 +1,8 @@
+## Big O :
+
+
+
+
+## Linked List :
+
+
