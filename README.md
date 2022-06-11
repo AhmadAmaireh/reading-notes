@@ -20,6 +20,7 @@
 
 [sequelize-normalization API](./https://github.com/AhmadAmaireh/reading-notes/tree/main/Day04)
 
+
 ## Securing Passwords
 [Securing Passwords](./Day06/Securing%20Passwords/Securing%20Passwords.md)
 
@@ -28,3 +29,7 @@
 
 ## Authentication Cheat Sheet
 [Authentication Cheat Sheet](./Day06/Authentication%20Cheat%20Sheet/OWASP%20auth%20cheatsheet.md)
+=======
+=======
+[SQL vs NoSQL Database](./Day03/Data%20Modeling/nosql%20vs%20sql.md)
+
