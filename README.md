@@ -14,6 +14,7 @@
 ## SQL vs NoSQL Database
 
 [Express REST API]
+[SQL vs NoSQL Database](./Day03/Data%20Modeling/nosql%20vs%20sql.md)
 
 
 ## sequelize-normalization 
@@ -29,7 +30,6 @@
 
 ## Authentication Cheat Sheet
 [Authentication Cheat Sheet](./Day06/Authentication%20Cheat%20Sheet/OWASP%20auth%20cheatsheet.md)
-=======
-=======
-[SQL vs NoSQL Database](./Day03/Data%20Modeling/nosql%20vs%20sql.md)
+
+
 
