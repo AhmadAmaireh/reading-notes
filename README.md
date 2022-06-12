@@ -13,7 +13,6 @@
 
 ## SQL vs NoSQL Database
 
-[Express REST API]
 [SQL vs NoSQL Database](./Day03/Data%20Modeling/nosql%20vs%20sql.md)
 
 
