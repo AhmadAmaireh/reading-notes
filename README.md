@@ -28,3 +28,6 @@
 
 ## Authentication Cheat Sheet
 [Authentication Cheat Sheet](./Day06/Authentication%20Cheat%20Sheet/OWASP%20auth%20cheatsheet.md)
+
+## Bearer Authorization
+[Intro to JWT](./Day07/Bearer%20Authorization/Intro%20to%20JWT.md)
