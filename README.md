@@ -13,12 +13,13 @@
 
 ## SQL vs NoSQL Database
 
-[Express REST API]
+[SQL vs NoSQL Database](./Day03/Data%20Modeling/nosql%20vs%20sql.md)
 
 
 ## sequelize-normalization 
 
 [sequelize-normalization API](./https://github.com/AhmadAmaireh/reading-notes/tree/main/Day04)
+
 
 ## Securing Passwords
 [Securing Passwords](./Day06/Securing%20Passwords/Securing%20Passwords.md)
@@ -31,3 +32,5 @@
 
 ## Bearer Authorization
 [Intro to JWT](./Day07/Bearer%20Authorization/Intro%20to%20JWT.md)
+
+
