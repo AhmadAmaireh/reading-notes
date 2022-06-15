@@ -1,6 +1,8 @@
 ## RBAC definition
 RBAC is the idea of assigning system access to users based on their role within an organization. The system needs of a given workforce are analyzed, with users grouped into roles based on common job responsibilities and system access needs. Access is then assigned to each person based strictly on their role assignment. With tight adherence to access requirements established for each role, access management becomes much easier.
 
+[role-based-access-control](./role-based-access-control%20.jpg)
+
 ## Benefits of RBAC?
 With the proper implementation of RBAC, the assignment of access rights becomes systematic and repeatable. Further, it is much easier to audit user rights, and to correct any issues identified.
 
