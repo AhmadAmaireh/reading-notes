@@ -9,7 +9,7 @@
 
 ## Read Me File
 
-[Express REST API](./Express%20REST%20API/Express_REST_API.md)
+[Express REST API](./Day02/Express%20REST%20API/Express_REST_API.md)
 
 ## SQL vs NoSQL Database
 
@@ -18,7 +18,7 @@
 
 ## sequelize-normalization 
 
-[sequelize-normalization API](./https://github.com/AhmadAmaireh/reading-notes/tree/main/Day04)
+[sequelize-normalization API](./Day04/sequelize-normalization.md)
 
 
 ## Securing Passwords
@@ -35,7 +35,7 @@
 
 
 ## Access Control (ACL)
-[RBAC](./Access%20Control/Access%20Control.md)
+[RBAC](./Day08/Access%20Control/Access%20Control.md)
 
 ## Event-Driven Programming in Node.js
 [Event-Driven](./Day11/README.md)
