@@ -54,6 +54,10 @@
 ## Tree :
 [Tree](./Day15/Tree.md)
 
+
+## AWS EC2 :
+[AWS EC2](./Day16/AWS%20EC2.md)
+
  
 
 
