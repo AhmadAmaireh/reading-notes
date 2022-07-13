@@ -61,6 +61,8 @@
 ## AWS S3 :
 [AWS S3](./Day17/AWS%20S3.md)
 
+## AWS SQS vs SNS
+[AWS SQS vs SNS](./Day18/AWS%20SQS%20vs%20SNS.md)
 
 
  
