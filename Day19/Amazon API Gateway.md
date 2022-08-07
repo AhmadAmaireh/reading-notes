@@ -72,5 +72,5 @@ Dynamoose is a modeling tool for Amazon's DynamoDB. Dynamoose is heavily inspire
 * Powerful Conditional/Filtering Support
 * Callback & Promise support
 
-![Go to home](../README.md)
+[Go to home](../README.md)
 
