@@ -67,5 +67,6 @@
 ## Amazon API Gateway
 [Amazon API Gateway](./Day19/Amazon%20API%20Gateway.md)
  
-
+## Component Based UI
+[Component Based UI](./Class26/Component%20Based%20UI.md)
 
