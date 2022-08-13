@@ -68,4 +68,6 @@
 [Amazon API Gateway](./Day19/Amazon%20API%20Gateway.md)
  
 
-
+-----
+### Effect Hook :
+[Effect Hook](./Class28/Effect_Hook.md)
