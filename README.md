@@ -71,3 +71,8 @@
 -----
 ### Effect Hook :
 [Effect Hook](./Class28/Effect_Hook.md)
+
+---
+
+### Use Reducer Hook
+[Use Reducer Hook](./Class29/useReducer_hook.md)
