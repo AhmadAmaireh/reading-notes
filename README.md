@@ -76,3 +76,8 @@
 
 ### Use Reducer Hook
 [Use Reducer Hook](./Class29/useReducer_hook.md)
+
+---
+
+### Hashtables
+[Hashtables](./Class30/Hashtables.md)
