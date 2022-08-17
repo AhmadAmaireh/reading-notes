@@ -99,7 +99,13 @@
 
 ### Use Reducer Hook
 [Use Reducer Hook](./Class29/useReducer_hook.md)
-=======
+
+
+---
+
+### Hashtables
+[Hashtables](./Class30/Hashtables.md)
+
 ------
 
 ## Component Based UI
@@ -109,5 +115,6 @@
 
 ## Hook
 [Hook](./Class27/%20Hook.md)
+
 
 
