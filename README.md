@@ -120,6 +120,9 @@
 ### Login and Auth
 [Login and Auth](./Class33/Login%20and%20Auth.md)
 
+---
+### Dynamic API Server
+[Dynamic API Server](./Class34/Dynamic%20API%20Server.md)
 ------
 
 ## Component Based UI
