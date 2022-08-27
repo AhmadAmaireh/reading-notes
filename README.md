@@ -92,3 +92,6 @@
 ### Context API - Behaviors
 [Context API - Behaviors](./Class32/Context.Provider.md)
 
+---
+### Login and Auth
+[Login and Auth](./Class33/Login%20and%20Auth.md)
