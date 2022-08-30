@@ -99,3 +99,9 @@
 ---
 ### Dynamic API Server
 [Dynamic API Server](./Class34/Dynamic%20API%20Server.md)
+
+-----
+### Redux
+[Redux](./Class36/Redux.md)
+
+----
