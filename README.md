@@ -130,6 +130,11 @@
 
 ----
 
+# Redux - Combined Reducers
+[Redux - Combined Reducers](./Class37/Redux%20-%20Combined%20Reducers.md)
+
+----
+
 ## Component Based UI
 [Component Based UI](./Class26/Component%20Based%20UI.md)
 
