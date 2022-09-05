@@ -105,3 +105,8 @@
 [Redux](./Class36/Redux.md)
 
 ----
+
+# Redux - Combined Reducers
+[Redux - Combined Reducers](./Class37/Redux%20-%20Combined%20Reducers.md)
+
+----
