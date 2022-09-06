@@ -135,6 +135,9 @@
 
 ----
 
+# Redux - Asynchronous Actions
+[Redux - Asynchronous Actions](./Class38/Redux%20-%20Asynchronous%20Actions.md)
+=======
 ## Component Based UI
 [Component Based UI](./Class26/Component%20Based%20UI.md)
 
