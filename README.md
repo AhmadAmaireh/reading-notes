@@ -113,3 +113,7 @@
 
 # Redux - Asynchronous Actions
 [Redux - Asynchronous Actions](./Class38/Redux%20-%20Asynchronous%20Actions.md)
+
+----
+# Redux Toolkit
+[Redux Toolkit](./Class39/Redux%20Toolkit.md)
